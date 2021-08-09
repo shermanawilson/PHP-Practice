@@ -19,7 +19,7 @@
 
 			echo "      ";
 
-			echo strlen("Hi Shy!");
+			echo strlen("Hi Shy!"); // This produces the string length
 
 
         ?>
